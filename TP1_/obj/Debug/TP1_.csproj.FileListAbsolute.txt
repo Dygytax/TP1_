@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\EFREI PARIS\M1\C#\TP1_\TP1_\bin\Debug\TP1_.exe
+C:\Users\User\Desktop\EFREI PARIS\M1\C#\TP1_\TP1_\bin\Debug\TP1_.pdb
+C:\Users\User\Desktop\EFREI PARIS\M1\C#\TP1_\TP1_\obj\Debug\TP1_.csprojAssemblyReference.cache
+C:\Users\User\Desktop\EFREI PARIS\M1\C#\TP1_\TP1_\obj\Debug\TP1_.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\EFREI PARIS\M1\C#\TP1_\TP1_\obj\Debug\TP1_.exe
+C:\Users\User\Desktop\EFREI PARIS\M1\C#\TP1_\TP1_\obj\Debug\TP1_.pdb
+C:\Users\User\Desktop\EFREI PARIS\M1\C#\TP1_\TP1_\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\EFREI PARIS\M1\C#\TP1_\TP1_\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\EFREI PARIS\M1\C#\TP1_\TP1_\obj\Debug\TP1_.csproj.CopyComplete
